@@ -1,0 +1,24 @@
+{
+ "name": "python3.9-tk",
+ "version": "3.9.25",
+ "license": "PSF-2.0",
+ "homepage": "https://docs.python.org/3/library/tkinter.html",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "Python-3.9.25.tar.xz"
+ ],
+ "desc": "tkinter for Python 3.9: the Tk graphical toolkit (needs the X server of the xorg package: tos-x), with turtle",
+ "file": "python3.9-tk-3.9.25.tpkg",
+ "size": 201957,
+ "sha256": "7031b61bbb7145c57478e5c5a549607dcdcc7d7e1d0aacaba30bce921e717b79",
+ "unpacked": 749691,
+ "min_build": 618,
+ "depends": [
+  "python3.9",
+  "tcltk"
+ ],
+ "commands": {}
+}
